@@ -1,0 +1,785 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `jwttokens` (`id` INTEGER NOT NULL auto_increment , `token` VARCHAR(255), `mac` VARCHAR(255), `isActive` TINYINT(1) NOT NULL DEFAULT false, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `mac`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `mac`, `isActive`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `mac`=?,`isActive`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `jwttokens` (`id` INTEGER NOT NULL auto_increment , `token` VARCHAR(255), `mac` VARCHAR(255), `isActive` TINYINT(1) NOT NULL DEFAULT false, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `testmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` DATETIME, `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` DATETIME, `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdBy` VARCHAR(255), `createdAt` DATETIME, `updatedBy` VARCHAR(255), `updatedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `testmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` DATETIME, `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` DATETIME, `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdBy` VARCHAR(255), `createdAt` DATETIME, `updatedBy` VARCHAR(255), `updatedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `testmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` DATETIME, `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` DATETIME, `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `testmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` VARCHAR(255), `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` DATETIME, `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `testmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` VARCHAR(255), `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` VARCHAR(255), `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `testmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` VARCHAR(255), `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` VARCHAR(255), `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdAt` DATETIME, `updatedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` LIMIT 1;"}
+{"data":1,"level":"info","message":" Your Mac is Already Activated!","status":200}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"data":{"activation_date":"2024/02/13","company_name":"ASD","expiry_date":"2025/02/13","isActive":true,"licency_key":"NGYB6784HUUSDJ","mac_id":"[{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"},{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"}]","mail":"ss@gmail.com"},"level":"info","message":" Success","status":200}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"data":1,"level":"info","message":" Your Mac is Already Activated!","status":200}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"info","message":"addMacValue ->Internal Server Error! Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:406:5)\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\express\\lib\\response.js:174:12)\n    at ServerResponse.json (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\express\\lib\\response.js:278:15)\n    at ServerResponse.send (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\express\\lib\\response.js:162:21)\n    at C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:129:29\n    at Array.forEach (<anonymous>)\n    at module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:127:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"addMacValue ->Internal Server Error! req.body.forEach is not a function","stack":"TypeError: req.body.forEach is not a function\n    at module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:133:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"addMacValue ->Internal Server Error! BodyValue.forEach is not a function","stack":"TypeError: BodyValue.forEach is not a function\n    at module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:135:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"addMacValue ->Internal Server Error! BodyValue.forEach is not a function","stack":"TypeError: BodyValue.forEach is not a function\n    at module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:136:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"data":"No Data!","level":"info","message":" Your Mac is Not Match!","status":404}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"data":{"activation_date":"2024/02/13","company_name":"ASD","expiry_date":"2025/02/13","licency_key":"NGYB6784HUUSDJ","mac_id":"[{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"},{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"}]","mail":"ss@gmail.com"},"level":"info","message":" Your Mac is Already Activated!","status":200}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `testmodels` AS `TestModel` WHERE `TestModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"data":{"activation_date":"2024/02/13","company_name":"ASD","expiry_date":"2025/02/13","licency_key":"NGYB6784HUUSDJ","mail":"ss@gmail.com"},"level":"info","message":" Your Mac is Already Activated!","status":200}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `macmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` VARCHAR(255), `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` VARCHAR(255), `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` VARCHAR(255), `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdAt` DATETIME, `updatedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `macmodels` AS `MacModel` WHERE `MacModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"addMacValue ->Internal Server Error! Cannot read properties of null (reading 'dataValues')","stack":"TypeError: Cannot read properties of null (reading 'dataValues')\n    at module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:16:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `macmodels` AS `MacModel` WHERE `MacModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"addMacValue ->Internal Server Error! Cannot read properties of null (reading 'dataValues')","stack":"TypeError: Cannot read properties of null (reading 'dataValues')\n    at module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:17:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `macmodels` AS `MacModel` WHERE `MacModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `macmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"addMacValue ->Internal Server Error! Data too long for column 'mac_id' at row 1","name":"SequelizeDatabaseError","original":{"code":"ER_DATA_TOO_LONG","errno":1406,"parameters":["NGYB6784HUUSDJ","[{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"},{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"}]","ss@gmail.com","ASD",true,"2024/02/13","2025/02/13","2024-02-13 11:19:35",1],"sql":"UPDATE `macmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?","sqlMessage":"Data too long for column 'mac_id' at row 1","sqlState":"22001"},"parameters":["NGYB6784HUUSDJ","[{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"},{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"}]","ss@gmail.com","ASD",true,"2024/02/13","2025/02/13","2024-02-13 11:19:35",1],"parent":{"code":"ER_DATA_TOO_LONG","errno":1406,"parameters":["NGYB6784HUUSDJ","[{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"},{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"}]","ss@gmail.com","ASD",true,"2024/02/13","2025/02/13","2024-02-13 11:19:35",1],"sql":"UPDATE `macmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?","sqlMessage":"Data too long for column 'mac_id' at row 1","sqlState":"22001"},"sql":"UPDATE `macmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?","stack":"Error\n    at Query.run (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\sequelize\\lib\\dialects\\mysql\\query.js:52:25)\n    at C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async MySQLQueryInterface.bulkUpdate (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:366:12)\n    at async MacModel.update (C:\\Users\\aadha\\Documents\\JWTSimple\\node_modules\\sequelize\\lib\\model.js:2010:28)\n    at async module.exports.addMacValue (C:\\Users\\aadha\\Documents\\JWTSimple\\app\\controllers\\jwt_controller.js:29:35)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'macmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `macmodels` (`id` INTEGER NOT NULL auto_increment , `licency_key` VARCHAR(255), `mac_id` TEXT, `mail` VARCHAR(255), `company_name` VARCHAR(255), `activation_date` VARCHAR(255), `expiry_type` VARCHAR(255) DEFAULT 'One Year', `expiry_date` VARCHAR(255), `isActive` TINYINT(1) NOT NULL DEFAULT false, `app_version` VARCHAR(255), `createdAt` DATETIME, `updatedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `macmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `macmodels` AS `MacModel` WHERE `MacModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `macmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`isActive`=?,`activation_date`=?,`expiry_date`=?,`updatedAt`=? WHERE `id` = ?"}
+{"data":{"activation_date":"2024/02/13","company_name":"ASD","expiry_date":"2025/02/13","isActive":true,"licency_key":"NGYB6784HUUSDJ","mac_id":"[{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"},{\"address\":\"192.168.1.108\",\"netmask\":\"255.255.255.0\",\"family\":\"IPv4\",\"mac\":\"01:02:03:0a:0b:0c\",\"internal\":false,\"cidr\":\"192.168.1.108/24\"}]","mail":"ss@gmail.com"},"level":"info","message":"Update Success!","status":200}
+{"level":"info","message":"Executing (default): SELECT `id`, `licency_key`, `mac_id`, `mail`, `company_name`, `activation_date`, `expiry_type`, `expiry_date`, `isActive`, `app_version`, `createdAt`, `updatedAt` FROM `macmodels` AS `MacModel` WHERE `MacModel`.`licency_key` = 'NGYB6784HUUSDJ' LIMIT 1;"}
+{"data":{"activation_date":"2024/02/13","company_name":"ASD","expiry_date":"2025/02/13","licency_key":"NGYB6784HUUSDJ","mail":"ss@gmail.com"},"level":"info","message":" Your Mac is Already Activated!","status":200}

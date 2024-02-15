@@ -1,0 +1,96 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Invalid!"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Invalid!"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Token is Verified, Proceed to Profile!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Token is Verified, Proceed to Profile!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): INSERT INTO `testmodels` (`id`,`licency_key`,`mac_id`,`mail`,`company_name`,`activation_date`,`expiry_type`,`expiry_date`,`isActive`,`app_version`,`createdBy`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"PrimaryId":1,"level":"info","message":" Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Invalid!"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Token is Verified, Proceed to Profile!"}
+{"level":"info","message":"Executing (default): UPDATE `testmodels` SET `licency_key`=?,`mac_id`=?,`mail`=?,`company_name`=?,`activation_date`=?,`expiry_type`=?,`expiry_date`=?,`app_version`=?,`createdBy`=?,`updatedAt`=? WHERE `id` = ?"}
+{"PrimaryId":1,"level":"info","message":" Update Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Verified, Proceed to Profile!"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Verified, Proceed to Profile!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Token is Verified, Proceed to Profile!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'jwttokens' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `jwttokens` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'testmodels' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `testmodels` FROM `usermanagement`"}
+{"level":"info","message":"Token is Missing or Invalid!"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Invalid!"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Token is Invalid!"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
+{"level":"info","message":"Executing (default): SELECT `id`, `token`, `createdAt`, `updatedAt` FROM `jwttokens` AS `JWTToken` LIMIT 1;"}
+{"level":"info","message":"Executing (default): UPDATE `jwttokens` SET `token`=?,`updatedAt`=? WHERE `id` = ?"}
